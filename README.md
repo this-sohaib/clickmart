@@ -32,7 +32,7 @@ Install the following on your system:
 
 ## 📦 Step 1 — Clone the Project
 ```sh
-git clone https://github.com/dev-rathankumar/django_clickmart_
+
 cd django_clickmart_
 ```
 
