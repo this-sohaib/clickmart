@@ -33,7 +33,10 @@ Install the following on your system:
 ## 📦 Step 1 — Clone the Project
 ```sh
 
-cd django_clickmart_
+# Step 1 ? Clone the Project
+
+git clone https://github.com/this-sohaib/clickmart.git
+cd clickmart
 ```
 
 ## Step 2 - Remove Git history
