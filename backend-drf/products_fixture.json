@@ -1,0 +1,17 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "name": "Premium Smart Watch",
+        "description": "A sleek and modern smartwatch with advanced health tracking features and a premium metallic band.",
+        "image": "products/smart_watch.png",
+        "price": "299.99",
+        "stock": 50,
+        "tax_percent": "0.00",
+        "is_active": true,
+        "created_at": "2026-04-21T05:18:44.887Z",
+        "updated_at": "2026-04-21T05:18:44.887Z"
+    }
+}
+]
